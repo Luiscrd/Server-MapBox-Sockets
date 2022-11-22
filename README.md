@@ -6,7 +6,7 @@
   <img alt="Angular" src="https://i0.wp.com/iotbyhvm.ooo/wp-content/uploads/2019/01/Socket.IO_.png" width="500">
 </p>
 
-# Socket-Server
+# Server-MapBox-Sockets
 
 
 Reconstruir módulos de Node
@@ -27,4 +27,4 @@ node dist/
 
 
 
-# Server-MapBox-Sockets
+
